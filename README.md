@@ -5,5 +5,5 @@
  - Learning DevOps and some frontend.
 
 <a href="#">
-  <img align="middle" src="https://vercel-statsapp.vercel.app/api/top-langs/?username=agraden&theme=radical&layout=compact&langs_count=10&border_radius=12" height="195">
+  <img src="https://vercel-statsapp.vercel.app/api/top-langs/?username=agraden&theme=radical&layout=compact&langs_count=10&border_radius=12" height="195">
 </a>
