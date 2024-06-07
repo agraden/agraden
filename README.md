@@ -1,5 +1,4 @@
-### Hi, I'm Alex 👋
+### Hi, I'm Alexander 👋
 
- - **A Backend Engineer.** 
- - **Certified Azure Developer in C#.** 
- - Learning DevOps and IaC.
+ - **A Backend Engineer**
+ - **Microsoft Certified: DevOps Engineer (AZ-400), Azure Developer (AZ-204)**
