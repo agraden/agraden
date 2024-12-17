@@ -1,4 +1,5 @@
-### Hi, I'm Alexander 👋
+### Hi, I'm Alex 👋
 
- - **A Backend Engineer**
- - **Microsoft Certified: DevOps Engineer (AZ-400), Azure Developer (AZ-204)**
+ - **Microsoft Certified DevOps Engineer && Azure Developer (AZ-400,AZ-204)**\
+
+software space astronaut
